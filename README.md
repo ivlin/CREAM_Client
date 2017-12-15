@@ -11,11 +11,11 @@ Currently, running the CREAM server requires 3 arguments:
 
 `bin/cream NUM_THREADS PORT_NUM CAPACITY`
 
-NUM_THREADS - number of threads
+`NUM_THREADS` - number of threads
 
-PORT_NUM - the port the server will listen on
+`PORT_NUM` - the port the server will listen on
 
-MAP_CAPACITY - maximum capacity of the hashmap
+`MAP_CAPACITY` - maximum capacity of the hashmap
 
 ##Client Commands
 
